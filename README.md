@@ -33,7 +33,12 @@ Download the latest `.deb` package from the Releases page.
 Install:
 
 ```bash
-sudo apt install ./python3-glass_VERSION_all.deb
+sudo apt install ./python3-glass.deb
+```
+OR (not working as of this current time)
+
+```bash
+sudo apt install glass
 ```
 
 Verify:

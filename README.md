@@ -26,8 +26,6 @@ Just your browser, your website, and a clean desktop integration.
 
 # 📦 Installation
 
-## Option 1: Install from `.deb`
-
 Download the latest `.deb` package from the Releases page.
 
 Install:
@@ -45,29 +43,6 @@ Verify:
 
 ```bash
 glass help
-```
-
----
-
-## Option 2: Install from source
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/glass.git
-cd glass
-```
-
-Install:
-
-```bash
-pip install .
-```
-
-Test:
-
-```bash
-glass
 ```
 
 ---
